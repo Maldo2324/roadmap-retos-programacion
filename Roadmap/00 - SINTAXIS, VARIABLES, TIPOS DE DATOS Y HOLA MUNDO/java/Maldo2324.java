@@ -5,7 +5,7 @@ public class Maldo2324 {
 
         // SINTAXIS PARA CREAR COMENTARIOS EN EL LENGUAJE
 
-    // Utilizamos // para comentarios en una sola linea
+    // Utilizamos "//" para comentarios en una sola linea
 
     /* De esta forma podemos demostrar
     comentarios de multiples lineas
